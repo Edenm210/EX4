@@ -31,11 +31,11 @@ This project was created by Eden Moshe as an assignment in Advance Programming c
   ## Run Instructions:
   * Open the linux terminal and compile the program:
     ```
-    * g++ -std=c++14 *.cpp -Wall -Wextra -Wshadow -Wnon-virtual-dtor -pedantic -o a.out -pthread
+    g++ -std=c++14 *.cpp -Wall -Wextra -Wshadow -Wnon-virtual-dtor -pedantic -o a.out -pthread
     ```
   * Run the program with a port number (the server listening port) using the following command (in the linux terminal): 
     ```
-    * ./a.out PORT_NUM
+    ./a.out PORT_NUM
     ```
   * Connect to the server as a client and send the matrix problem you want to solve. the solution will be sent back to you after calculating.
     the matrix problem should be in the following pattern:
