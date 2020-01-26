@@ -1,0 +1,43 @@
+BFS
+
+1 ################
+
+Right (24) ,Right (35) ,Right (52) ,Right (64) ,Right (72) ,Right (77) ,Right (97) ,Right (104) ,Down (105) ,Right (118) ,Down (128) ,Down (134) ,Down (144) ,Down (157) ,Down (162) ,Down (169) ,Down (169) ,Down (175)
+
+2 ################
+
+Right (13) ,Right (28) ,Right (35) ,Right (50) ,Right (53) ,Right (71) ,Right (73) ,Right (87) ,Right (104) ,Right (114) ,Right (127) ,Down (137) ,Down (139) ,Down (141) ,Down (148) ,Down (159) ,Down (166) ,Down (184) ,Down (200) ,Down (206) ,Down (215) ,Down (226)
+
+3 ################
+
+Right (21) ,Right (28) ,Right (43) ,Right (46) ,Right (54) ,Right (69) ,Right (71) ,Right (87) ,Right (90) ,Right (93) ,Right (96) ,Right (106) ,Right (108) ,Right (126) ,Right (131) ,Down (132) ,Right (139) ,Down (152) ,Down (162) ,Down (182) ,Down (198) ,Down (214) ,Down (218) ,Down (223) ,Down (232) ,Down (249) ,Down (260) ,Down (261) ,Down (264) ,Down (281) ,Down (286) ,Down (300) ,Down (316) ,Right (318) ,Down (334) ,Right (335)
+
+4 ################
+
+Right (28) ,Right (31) ,Right (48) ,Right (58) ,Right (66) ,Right (79) ,Right (88) ,Right (104) ,Right (115) ,Right (122) ,Right (132) ,Right (141) ,Right (155) ,Right (162) ,Right (174) ,Right (194) ,Right (213) ,Right (220) ,Down (238) ,Down (244) ,Down (257) ,Down (265) ,Down (265) ,Down (271) ,Down (273) ,Down (276) ,Down (291) ,Down (303) ,Down (310) ,Down (311) ,Down (322) ,Down (335) ,Down (338) ,Down (339) ,Right (351) ,Down (358) ,Down (371) ,Down (385)
+
+5 ################
+
+Right (14) ,Right (16) ,Right (17) ,Right (27) ,Right (29) ,Right (38) ,Right (58) ,Right (63) ,Right (63) ,Right (77) ,Right (92) ,Right (92) ,Right (106) ,Down (119) ,Right (133) ,Right (137) ,Right (143) ,Right (160) ,Right (174) ,Right (191) ,Right (199) ,Right (212) ,Right (223) ,Right (242) ,Right (256) ,Down (263) ,Down (275) ,Down (288) ,Down (294) ,Down (294) ,Right (309) ,Down (323) ,Down (336) ,Down (351) ,Down (370) ,Down (382) ,Down (402) ,Down (419) ,Down (431) ,Down (451) ,Down (456) ,Down (456) ,Down (475) ,Down (495) ,Down (507) ,Down (519) ,Down (535) ,Down (539) ,Down (545) ,Down (563)
+
+6 ################
+
+Right (31) ,Right (48) ,Right (59) ,Right (65) ,Right (78) ,Right (90) ,Right (99) ,Right (101) ,Right (106) ,Right (126) ,Right (137) ,Right (137) ,Right (139) ,Right (147) ,Right (152) ,Right (171) ,Right (181) ,Right (189) ,Right (200) ,Right (206) ,Right (220) ,Right (234) ,Right (239) ,Right (255) ,Right (269) ,Right (274) ,Down (279) ,Down (287) ,Right (288) ,Down (291) ,Down (291) ,Down (302) ,Down (316) ,Down (320) ,Down (332) ,Down (345) ,Down (350) ,Down (354) ,Down (370) ,Down (383) ,Down (388) ,Down (395) ,Down (407) ,Down (419) ,Right (425) ,Right (430) ,Down (434) ,Down (448) ,Right (466) ,Down (470) ,Down (478) ,Down (494) ,Right (494) ,Down (503) ,Down (509) ,Down (528) ,Down (529) ,Down (530) ,Down (534) ,Right (536) ,Down (545) ,Right (545) ,Down (562) ,Down (573) ,Down (588) ,Down (602)
+
+7 ################
+
+Right (18) ,Right (21) ,Right (27) ,Right (41) ,Right (52) ,Right (60) ,Down (71) ,Right (77) ,Right (87) ,Right (96) ,Right (101) ,Right (107) ,Right (115) ,Down (117) ,Right (118) ,Right (126) ,Right (132) ,Right (134) ,Right (149) ,Right (149) ,Right (149) ,Right (159) ,Right (162) ,Right (162) ,Right (179) ,Right (182) ,Right (195) ,Right (199) ,Right (208) ,Right (216) ,Right (223) ,Right (224) ,Right (234) ,Right (244) ,Right (261) ,Right (268) ,Right (282) ,Down (296) ,Down (296) ,Down (309) ,Down (318) ,Down (327) ,Down (347) ,Down (360) ,Down (371) ,Down (379) ,Down (393) ,Down (403) ,Down (419) ,Down (434) ,Down (438) ,Down (456) ,Down (456) ,Down (456) ,Down (475) ,Down (478) ,Right (480) ,Right (488) ,Down (491) ,Down (499) ,Down (503) ,Down (516) ,Down (518) ,Down (526) ,Down (534) ,Down (538) ,Down (547) ,Down (559) ,Right (564) ,Down (575) ,Down (593) ,Down (593) ,Down (595) ,Down (606) ,Down (624) ,Down (644)
+
+8 ################
+
+Right (31) ,Right (40) ,Down (43) ,Down (60) ,Right (72) ,Right (78) ,Right (86) ,Right (101) ,Down (101) ,Right (110) ,Right (119) ,Right (120) ,Right (125) ,Right (129) ,Right (140) ,Right (159) ,Right (161) ,Right (164) ,Right (173) ,Right (193) ,Right (206) ,Right (216) ,Right (231) ,Right (243) ,Right (244) ,Right (250) ,Right (253) ,Right (266) ,Right (266) ,Right (279) ,Right (283) ,Right (295) ,Right (298) ,Right (310) ,Right (328) ,Right (330) ,Right (342) ,Right (362) ,Right (376) ,Right (388) ,Right (402) ,Right (412) ,Down (426) ,Down (443) ,Down (444) ,Down (446) ,Down (454) ,Down (455) ,Down (473) ,Down (479) ,Down (492) ,Down (493) ,Down (494) ,Down (513) ,Down (528) ,Down (529) ,Down (532) ,Down (542) ,Down (546) ,Down (563) ,Down (582) ,Down (585) ,Right (601) ,Down (611) ,Down (623) ,Down (638) ,Down (654) ,Down (657) ,Down (657) ,Down (658) ,Down (668) ,Down (685) ,Down (691) ,Down (691) ,Right (706) ,Down (708) ,Down (723) ,Down (743) ,Down (757) ,Down (767) ,Down (777) ,Down (786)
+
+9 ################
+
+Right (22) ,Right (25) ,Right (42) ,Right (48) ,Right (55) ,Right (56) ,Right (71) ,Right (83) ,Right (92) ,Right (112) ,Right (122) ,Right (127) ,Right (143) ,Right (146) ,Right (159) ,Down (159) ,Right (168) ,Right (182) ,Right (198) ,Right (205) ,Right (218) ,Right (225) ,Down (241) ,Right (249) ,Right (269) ,Right (287) ,Right (306) ,Right (308) ,Right (315) ,Right (321) ,Right (340) ,Right (359) ,Right (363) ,Right (372) ,Right (383) ,Right (390) ,Right (403) ,Right (422) ,Down (431) ,Right (431) ,Right (443) ,Right (454) ,Right (455) ,Right (474) ,Right (488) ,Right (496) ,Right (515) ,Down (531) ,Down (547) ,Down (555) ,Down (571) ,Down (575) ,Down (583) ,Down (603) ,Down (617) ,Down (619) ,Down (639) ,Down (652) ,Down (656) ,Down (658) ,Down (670) ,Down (685) ,Right (696) ,Right (703) ,Down (706) ,Down (725) ,Down (743) ,Down (748) ,Down (754) ,Down (760) ,Down (769) ,Down (776) ,Down (786) ,Down (798) ,Down (798) ,Down (810) ,Down (810) ,Down (823) ,Down (836) ,Down (836) ,Right (837) ,Down (850) ,Down (853) ,Down (853) ,Down (870) ,Down (881) ,Down (897) ,Down (905) ,Down (914) ,Down (934) ,Down (949) ,Down (954) ,Down (954) ,Down (955)
+
+10 ################
+
+Right (31) ,Right (46) ,Right (64) ,Right (78) ,Right (85) ,Right (105) ,Right (115) ,Right (116) ,Right (130) ,Right (140) ,Right (146) ,Right (162) ,Right (171) ,Right (190) ,Down (209) ,Right (214) ,Right (222) ,Right (227) ,Right (238) ,Right (238) ,Right (249) ,Right (260) ,Right (262) ,Right (273) ,Right (285) ,Right (287) ,Right (289) ,Right (290) ,Right (294) ,Right (306) ,Right (326) ,Right (340) ,Right (345) ,Right (355) ,Down (371) ,Right (377) ,Right (379) ,Right (391) ,Right (398) ,Right (414) ,Right (416) ,Right (421) ,Right (427) ,Right (445) ,Right (463) ,Right (476) ,Right (477) ,Right (477) ,Right (490) ,Right (492) ,Down (512) ,Down (525) ,Down (529) ,Down (531) ,Down (539) ,Down (544) ,Down (556) ,Down (559) ,Down (559) ,Down (570) ,Down (587) ,Down (603) ,Down (605) ,Down (616) ,Down (631) ,Down (634) ,Down (634) ,Down (643) ,Down (644) ,Down (654) ,Down (660) ,Down (665) ,Down (680) ,Down (697) ,Down (706) ,Down (708) ,Down (728) ,Down (728) ,Down (736) ,Down (742) ,Down (750) ,Down (761) ,Down (773) ,Down (788) ,Down (802) ,Down (812) ,Down (818) ,Down (833) ,Down (843) ,Down (844) ,Down (848) ,Down (864) ,Down (866) ,Right (879) ,Down (888) ,Down (895) ,Down (903) ,Down (918)
+
+
